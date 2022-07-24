@@ -9,11 +9,6 @@ npm install react-native-outside-touch
 ## Usage
 
 ```js
-import { multiply } from "react-native-outside-touch";
-
-// ...
-
-const result = await multiply(3, 7);
 ```
 
 ## Contributing
